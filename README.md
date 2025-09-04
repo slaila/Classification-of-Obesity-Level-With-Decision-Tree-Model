@@ -47,7 +47,7 @@ categories of obesity levels:\
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/username/obesity-decision-tree.git
+    git clone https://github.com/slaila/Classification-of-Obesity-Level-With-Decision-Tree-Model.git
     cd obesity-decision-tree
     ```
 
