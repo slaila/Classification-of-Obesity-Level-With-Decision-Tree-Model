@@ -63,15 +63,6 @@ categories of obesity levels:\
     jupyter notebook Classification_of_Obesity_Level_With_Decision_Tree_Model.ipynb
     ```
 
-## 📦 Dependencies
-
--   Python 3.x\
--   Jupyter Notebook\
--   pandas\
--   numpy\
--   scikit-learn\
--   matplotlib / seaborn
-
 ## ✨ Future Work
 
 -   Compare performance with ensemble methods (Random Forest, XGBoost).\
